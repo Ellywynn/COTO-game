@@ -53,10 +53,10 @@ Shop:
     - Escape - **Pause/Unpause the game | Close the shop**
     
 ## Download the game
-[Download Confrontation of the Obscurity](https://yadi.sk/d/V-US4VYKDZqYmw)
+[Download Confrontation of the Obscurity](https://yadi.sk/d/lG9viK7f6BR85Q)
     
 ### P.S.
 
 I don't consider this project perfect. It was created in order to gain coding experience. But I put my soul into this game and I sincerely hope that you will like this game.
 
-**THANKS FOR YOUR ATTENTION!**
+**THANKS FOR YOUR ATTENTION!** :revolving_hearts:
