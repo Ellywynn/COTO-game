@@ -53,6 +53,7 @@ Shop:
 - **Menus**
     - Tab - **Open/Close the shop**
     - Escape - **Pause/Unpause the game | Close the shop**
+    - F11 - **Switch fullscreen mode**
     
 ## Download the game
 [Download Confrontation of the Obscurity](https://yadi.sk/d/lG9viK7f6BR85Q)
