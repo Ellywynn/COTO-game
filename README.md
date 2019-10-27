@@ -32,6 +32,8 @@ Shop:
 ![](https://sun9-18.userapi.com/c854228/v854228097/13a847/f5Qz4qK3_D8.jpg "Shop")
 
 ## Game features
+- C++
+- SFML
 - Sprites
 - Animations
 - Sounds
