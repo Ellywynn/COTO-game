@@ -117,6 +117,8 @@ public:
 		bool& shiftMode, const State& state);
 	void render(sf::RenderTarget& target);
 
+	void reset();
+
 	const int getHpMax() const;
 	int getHp() const;
 	const sf::Vector2f& getPosition() const;

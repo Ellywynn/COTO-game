@@ -29,6 +29,23 @@ void Player::render(sf::RenderTarget & target)
 	target.draw(sprite);
 }
 
+void Player::reset()
+{
+	upgrades.reset();
+	hpMax = 100;
+	hp = hpMax;
+	bulletAS = 0.3f;
+	missileAS = 4.f;
+	armor = 0.f;
+	bulletFireRate = sf::seconds(bulletAS);
+	missileFireRate = sf::seconds(missileAS);
+	shiftingDuration = sf::seconds(0.2f);
+	speed = 10.f;
+	shift = false;
+	moveRight = false;
+	shiftingSpeed = 35.f;
+}
+
 void Player::setSpawnPosition(sf::RenderTarget & target)
 {
 	x = target.getSize().x / 2.f;
