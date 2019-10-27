@@ -133,7 +133,7 @@ void Game::initVariables()
 	gui.background_2.setPosition(gui.background_1.getPosition().x,
 		gui.background_1.getPosition().y - gui.background_2.getGlobalBounds().height);
 
-	player.upgrades.reset();
+	player.reset();
 	player.setSpawnPosition(*window);
 
 	sf::Vector2u size = window->getSize();
