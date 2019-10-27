@@ -1,1 +1,2 @@
-# COTO-game
+# Confrontation of the Obscurity
+
